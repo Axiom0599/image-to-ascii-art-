@@ -1,6 +1,6 @@
 # image-to-ascii-art-
 
-
+-------------- IN PROGRESS ------------------
 Steps to convert image to ASCII character:
 
 Load an image
